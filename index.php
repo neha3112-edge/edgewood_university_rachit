@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section id="c-offered" class="courses-section">
+<section id="main-courses" class="courses-section">
     <div class="header">
         <h2>COURSES OFFERED</h2>
         <p>By Edgewood University U.S</p>
@@ -167,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section class="accreditation-section">
+<section id="c-offered" class="accreditation-section">
     <div class="accreditation-header">
         <h2>ACCREDITATION & COLLABORATION</h2>
         <p>Edgewood University, U.S</p>

@@ -107,6 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <ul class="nav-list">
             <li><a href="#hero-section">Home</a></li>
+            <li><a href="#main-courses">Courses</a></li>
             <li><a href="#c-offered">Approvals</a></li>
             <li><a href="#about-section">About</a></li>
                 <li><a href="#learning-section">Why Edgewood ?</a></li>
