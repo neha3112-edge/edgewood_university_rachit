@@ -24,10 +24,8 @@
 
         <select name="course" class="form-control" id="specialization" required>
             <option value="" selected disabled>Select Your Course</option>
-                            <option>Business Administration</option>
-                            <option>International Business</option>
-                            <option>Finance</option>
-                            <option>Healthcare Management</option>
+                            <option>DBA</option>
+                            <option>MBA</option>
 		
 
         </select>
