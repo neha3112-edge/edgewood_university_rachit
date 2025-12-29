@@ -47,7 +47,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
             </div>
 
-            <button class="banner_custom_btn enquireNowBtn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;">Download Broucher <i class="fa fa-download"></i> </button>
+            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;"><a href="../Edgewood/assets/img/edgewood_brochure.pdf">Download Broucher <i class="fa fa-download"></i></a> </button>
            </div>
 		
            <div class="banner-form">
@@ -126,7 +126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Eligibility:</strong> master degree with 50%</p>
                 </div>
                 <div class="card-actions">
-                    <a href="#" class="btn outline enquireNowBtn">Download Broucher <span class="icon">↓</span></a>
+                    <a href="../Edgewood/assets/img/edgewood_brochure.pdf" class="btn outline">Download Broucher <span class="icon">↓</span></a>
                     <a href="#" class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
@@ -142,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Degree:</strong> Graduate dgree with experience</p>
                 </div>
                 <div class="card-actions">
-                    <a href="#" class="btn outline enquireNowBtn">Download Broucher <span class="icon">↓</span></a>
+                    <a href="../Edgewood/assets/img/edgewood_brochure.pdf" class="btn outline">Download Broucher <span class="icon">↓</span></a>
                     <a href="#" class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>

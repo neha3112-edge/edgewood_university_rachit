@@ -1510,3 +1510,9 @@ p {
 	list-style-type: none;
 	font-size: 14px;
 }
+
+
+.banner_custom_btn a {
+	color: #000;
+	text-decoration: none;
+}
