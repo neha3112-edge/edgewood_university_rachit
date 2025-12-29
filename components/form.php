@@ -24,8 +24,8 @@
 
         <select name="course" class="form-control" id="specialization" required>
             <option value="" selected disabled>Select Your Course</option>
-                            <option>DBA</option>
-                            <option>MBA</option>
+                            <option value="DBA">DBA</option>
+                            <option value="MBA">MBA</option>
 		
 
         </select>
