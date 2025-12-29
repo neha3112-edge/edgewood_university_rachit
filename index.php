@@ -47,7 +47,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
             </div>
 
-            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;"><a href="../Edgewood/assets/img/edgewood_brochure.pdf">Download Broucher <i class="fa fa-download"></i></a> </button>
+            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;"><a href="../assets/img/edgewood_brochure.pdf">Download Broucher <i class="fa fa-download"></i></a> </button>
            </div>
 		
            <div class="banner-form">
@@ -117,7 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="course-container">
         <div class="course-card">
-            <div class="card-image" style="background-image: url('../Edgewood/assets/img/online-dba-edgewood.webp');"></div>
+            <div class="card-image" style="background-image: url('../assets/img/online-dba-edgewood.webp');"></div>
             <div class="card-content">
                 <h3>Online DBA</h3>
                 <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
@@ -126,14 +126,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Eligibility:</strong> master degree with 50%</p>
                 </div>
                 <div class="card-actions">
-                    <a href="../Edgewood/assets/img/edgewood_brochure.pdf" class="btn outline">Download Broucher <span class="icon">↓</span></a>
+                    <a href="../assets/img/new_pdf.pdf" class="btn outline">Get Broucher <span class="icon">↓</span></a>
                     <a href="#" class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
         </div>
 
         <div class="course-card">
-            <div class="card-image" style="background-image: url('../Edgewood/assets/img/dbamba-edgewood.webp');"></div>
+            <div class="card-image" style="background-image: url('../assets/img/dbamba-edgewood.webp');"></div>
             <div class="card-content">
                 <h3>Online DBA+MBA</h3>
                 <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
@@ -142,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Degree:</strong> Graduate dgree with experience</p>
                 </div>
                 <div class="card-actions">
-                    <a href="../Edgewood/assets/img/edgewood_brochure.pdf" class="btn outline">Download Broucher <span class="icon">↓</span></a>
+                    <a href="../assets/img/edgewood_brochure.pdf" class="btn outline">Get Broucher <span class="icon">↓</span></a>
                     <a href="#" class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
@@ -159,7 +159,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         <div class="image-container">
-            <img src="../Edgewood/assets/img/edegewood-about-image.webp" alt="Campus">
+            <img src="../assets/img/edegewood-about-image.webp" alt="Campus">
             <a href="#" class="cta-button enquireNowBtn">Get FREE Career Counseling</a>
         </div>
     </div>
@@ -176,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="accreditation-container">
         <div class="accreditation-card">
             <div class="logo-box">
-                <img src="../Edgewood/assets/img/hlc-approval-edgewood.webp" alt="HLC Logo">
+                <img src="../assets/img/hlc-approval-edgewood.webp" alt="HLC Logo">
             </div>
             <h3>Higher Learning Commission (HLC)</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
@@ -184,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="accreditation-card">
             <div class="logo-box">
-                <img src="../Edgewood/assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
+                <img src="../assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
             </div>
             <h3>Council of Higher Education Accreditation (CHEA)</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
@@ -192,7 +192,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="accreditation-card">
             <div class="logo-box">
-                <img src="../Edgewood/assets/img/acbsp-approval-edgewood.webp" alt="ACBSP Logo">
+                <img src="../assets/img/acbsp-approval-edgewood.webp" alt="ACBSP Logo">
             </div>
             <h3>Accreditation Council for Business Schools and Programs (ACBSP)</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
@@ -209,7 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="spec-container">
         <div class="spec-card">
-            <div class="card-image" style="background-image: url('../Edgewood/assets/img/leadership-edgewood.webp');"></div>
+            <div class="card-image" style="background-image: url('../assets/img/leadership-edgewood.webp');"></div>
             <div class="card-content">
                 <h3>DBA - Leadership</h3>
                 <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Lorem Ipsum.</p>
@@ -218,7 +218,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         <div class="spec-card">
-            <div class="card-image" style="background-image: url('../Edgewood/assets/img/finanance-edgewood.webp');"></div>
+            <div class="card-image" style="background-image: url('../assets/img/finanance-edgewood.webp');"></div>
             <div class="card-content">
                 <h3>DBA - Leadership</h3>
                 <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Lorem Ipsum.</p>
@@ -241,7 +241,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="outcomes-grid">
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../Edgewood/assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Nationally - Recognized Accreditation Authority</h3>
@@ -251,7 +251,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../Edgewood/assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Build Credible Expertise Through Research</h3>
@@ -261,7 +261,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../Edgewood/assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Nationally - Recognized Accreditation Authority</h3>
@@ -271,7 +271,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../Edgewood/assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Campus Immersion</h3>
@@ -281,7 +281,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../Edgewood/assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Online Networking Gala</h3>
@@ -291,7 +291,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../Edgewood/assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Campus Immersion</h3>
@@ -308,8 +308,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         <div class="certificate-display">
             <div class="certificate-track">
-                <img src="../Edgewood/assets/img/sample-certficate-edgewood.webp" class="cert-slide active" alt="Certificate 1">
-                <img src="../Edgewood/assets/img/sample-certficate-edgewood.webp" class="cert-slide" alt="Certificate 2">
+                <img src="../assets/img/sample-certficate-edgewood.webp" class="cert-slide active" alt="Certificate 1">
+                <img src="../assets/img/sample-certficate-edgewood.webp" class="cert-slide" alt="Certificate 2">
             </div>
             
             <div class="slider-dots">
