@@ -303,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section class="certificate-slider-section">
+<section id="sample-certificate" class="certificate-slider-section">
     <div class="slider-container">
         
         <div class="certificate-display">
@@ -325,7 +325,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
             </p>
-            <a href="#" class="get-degree-btn">Get Degree <span class="arrow">→</span></a>
+            <a href="#" class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
         </div>
         
     </div>

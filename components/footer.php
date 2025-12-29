@@ -27,8 +27,8 @@
             </div>
             <div class="footer-column">
                 <h2>QUICK LINKS</h2>
-				<p><a href="#about" style="text-decoration:none;">Approvals & Accredition</a> <br>
-				<a href="#Universities" style="text-decoration:none;">Sample Certificates
+				<p><a href="#about-section" style="text-decoration:none;">Approvals & Accredition</a> <br>
+				<a href="#sample-certificate" style="text-decoration:none;">Sample Certificates
 </a><br><a href="#faqs" style="text-decoration:none;">Frequently Asked Question
 </a></p>
 				
