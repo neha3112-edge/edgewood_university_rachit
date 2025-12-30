@@ -19,8 +19,10 @@
         <!-- <label>Course <span class="required">*</span></label> -->
         <select name="course" class="form-control" id="courseSelect" required>
                             <option value="" selected disabled>Select Your Course</option>
-                            <option value="DBA">DBA</option>
-                            <option value="MBA">MBA</option>
+                            <option value="DBA in Finance">DBA in Finance</option>
+                            <option value="DBA in Leadership">DBA in Leadership</option>
+                            <option value="DBA+MBA in Finance">DBA+MBA in Finance</option>
+                            <option value="DBA+MBA in Leadership">DBA+MBA in Leadership</option>
                         </select>
 
 
