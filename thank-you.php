@@ -8,13 +8,12 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Event snippet for DBA LP conversion page -->
+
+<!-- Event snippet for Edgewood_LP conversion page -->
 <script>
-  gtag('event', 'conversion', {
-      'send_to': 'AW-868968102/ZR6sCNG5tZ8bEKbNrZ4D',
-      'value': 1.0,
-      'currency': 'INR'
-  });
+  gtag('event', 'conversion', {'send_to': 'AW-17834744994/ICRZCPnn69kbEKK5orhC'});
 </script>
+
 	</head>
 	<body>
 		<?php include "navbar.php"; ?>
