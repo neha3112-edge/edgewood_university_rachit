@@ -31,19 +31,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <div class="banner">
            <div class="banner-info">
             <!-- <p class="t1"><span class="t2">IIM KOZHIKODE</span></p> -->
-             <h2>Get Doctoral-Level<br> Management Expertise From</h2>
+             <h2>Learn Business <br> Leadership Skills With</h2>
             <h1 style="font-family:Impact, sans-serif !important;">EdgeWood University</h1>
             <br>
 
             <div class="main_dba_section">
             <span class="online_heading">Online</span>             
-            <h1><span class="dba_heading">DBA</span> DBA+MBA</h1>
+            <h1><span class="dba_heading">DBA</span> MBA + DBA</h1>
 </div>
 
             <div class="banner_lists">
                 <ul>
-                    <li><i class="fa fa-clock-o"></i> Globally Recognised</li>
-                    <li><i class="fa fa-check-square-o"></i> No-cost EMI</li>
+                    <li><i class="fa fa-check-square-o"></i> Globally recognised U.S. accreditation (HLC)</li>
+                    <li><i class="fa fa-check-square-o"></i> No GMAT/GRE + flexible pay-per-month model</li>
                 </ul>
             </div>
 
@@ -70,7 +70,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
-                <h3>05 Lakh+</h3>
+                <h3>95+</h3>
+                <p>Years of legacy</p>
+                </div>
+            </div>
+
+            <div class="ac1">
+                
+                <i class="fa fa-graduation-cap"></i>
+                <div class="inner_arc1_grid">
+                <h3>5 lakh+</h3>
                 <p>Student Enrolled</p>
                 </div>
             </div>
@@ -79,8 +88,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
-                <h3>05 Lakh+</h3>
-                <p>Student Enrolled</p>
+                <h3>PwC</h3>
+                <p>Certificate</p>
                 </div>
             </div>
 
@@ -88,17 +97,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
-                <h3>05 Lakh+</h3>
-                <p>Student Enrolled</p>
-                </div>
-            </div>
-
-            <div class="ac1">
-                
-                <i class="fa fa-graduation-cap"></i>
-                <div class="inner_arc1_grid">
-                <h3>05 Lakh+</h3>
-                <p>Student Enrolled</p>
+                <h3>Dual</h3>
+                <p>Degree</p>
                 </div>
             </div>
 
@@ -112,18 +112,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="main-courses" class="courses-section">
     <div class="header">
         <h2>COURSES OFFERED</h2>
-        <p>By Edgewood University U.S</p>
+        <p>By Edgewood University Online</p>
     </div>
 
     <div class="course-container">
         <div class="course-card">
             <div class="card-image" style="background-image: url('../assets/img/online-dba-edgewood.webp');"></div>
             <div class="card-content">
-                <h3>Online DBA</h3>
-                <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                <h3>Edgewood University Online MBA:</h3>
+                <p class="description">Edgewood University Online MBA helps students build leadership skills, strategy, and business decision skills with the top approvals of HLC-accredited, ACBSP-approved learning, which offers flexible study and a career-focused curriculum.</p>
                 <div class="details">
-                    <p><strong>Duration:</strong> 24 Months</p>
-                    <p><strong>Eligibility:</strong> master degree with 50%</p>
+                    <p><strong>Duration:</strong> 2.5 Years</p>
+                    <p><strong>Eligibility:</strong> Bachelor's + Master's Degree with relevant experience</p>
                 </div>
                 <div class="card-actions">
                     <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
@@ -135,11 +135,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="course-card">
             <div class="card-image" style="background-image: url('../assets/img/dbamba-edgewood.webp');"></div>
             <div class="card-content">
-                <h3>Online DBA+MBA</h3>
-                <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                <h3>Edgewood University Online DBA + MBA:</h3>
+                <p class="description">The Dual degree is in demand nowadays. Many students plan to study an online DBA + MBA as their career pathway. The student can complete the degree in 2.5 years, which combines executive skills an MBA student needs with applied research and the respected “Dr” title.</p>
                 <div class="details">
-                    <p><strong>Duration:</strong> 30 Months</p>
-                    <p><strong>Degree:</strong> Graduate dgree with experience</p>
+                    <p><strong>Duration:</strong> 24 Months</p>
+                    <p><strong>Eligibility:</strong> Bachelor's Degree</p>
                 </div>
                 <div class="card-actions">
                     <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
@@ -154,8 +154,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="about-section" class="about-section-hero">
     <div class="overlay"></div> <div class="content-wrapper">
         <div class="about-content">
-            <h2>About Edgewood University</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <h2>About Edgewood University Online</h2>
+            <p>Edgewood University Online is a US-based university that was established in 1927, and the university is located in Madison. With 95+ years of excellence,e the university is one that offers career-focused learning. The university has the approval of ACBSP, HLC, which make sure the education provided by Edgewood University Online is globally competitive. The university offers a dual program in Edgewood University Online DBA+MBA, and the university also provides a management degree, which is called Edgewood University Online MBA. Through their flexible programs, students can get aan industry-relevantcurriculum, faculty support, and a learning model built for working professionals.</p>
         </div>
 
         <div class="image-container">
@@ -169,8 +169,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <section id="c-offered" class="accreditation-section">
     <div class="accreditation-header">
-        <h2>ACCREDITATION & COLLABORATION</h2>
-        <p>Edgewood University, U.S</p>
+        <h2>ACCREDITATION OF</h2>
+        <p>Edgewood University Online</p>
     </div>
 
     <div class="accreditation-container">
@@ -179,23 +179,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="../assets/img/hlc-approval-edgewood.webp" alt="HLC Logo">
             </div>
             <h3>Higher Learning Commission (HLC)</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+            <p>Edgewood University Online program is approved by the HLC, which is a trusted U.S. regional approval authority. This approval support MBA+DBA program's credibility.</p>
         </div>
 
         <div class="accreditation-card">
             <div class="logo-box">
                 <img src="../assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
             </div>
-            <h3>Council of Higher Education Accreditation (CHEA)</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+            <h3>World Education Services (WES)</h3>
+            <p>The Edgewood University Online DBA+MBA is approved by the WES, which help learniver validate their US qualification for education and career development across countries.</p>
         </div>
 
         <div class="accreditation-card">
             <div class="logo-box">
                 <img src="../assets/img/acbsp-approval-edgewood.webp" alt="ACBSP Logo">
             </div>
-            <h3>Accreditation Council for Business Schools and Programs (ACBSP)</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+            <h3>Accreditation Council for Business Schools & Programs (ACBSP)</h3>
+            <p>The ACBSP-approval make sure that the quality of the education is a strong academic standard and has a global value. The Edgewood University Online MBA has gotten this approval, which make sure that the course of have a proper approvals.</p>
         </div>
     </div>
 </section>
@@ -204,15 +204,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <section class="specialisation-section">
     <div class="header">
-        <h2>SPECIALISATION OFFERED</h2>
+        <h2>Specializations of Edgewood University Online DBA+MBA</h2>
     </div>
 
     <div class="spec-container">
         <div class="spec-card">
             <div class="card-image" style="background-image: url('../assets/img/leadership-edgewood.webp');"></div>
             <div class="card-content">
-                <h3>DBA - Leadership</h3>
-                <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Lorem Ipsum.</p>
+                <h3>DBA+MBA Leadership:</h3>
+                <p class="description">Edgewood University Online DBA Learning in DBA+MBA Leadership combines MBA leadership skills with doctoral-level applied research, preparing professionals for senior management, consulting, and enterprise growth roles.</p>
                 <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
         </div>
@@ -220,8 +220,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="spec-card">
             <div class="card-image" style="background-image: url('../assets/img/finanance-edgewood.webp');"></div>
             <div class="card-content">
-                <h3>DBA - Leadership</h3>
-                <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Lorem Ipsum.</p>
+                <h3>DBA+MBA Finance:</h3>
+                <p class="description">Edgewood University Online DBA Learning in DBA+MBA Finance blends MBA finance fundamentals with advanced doctoral research, supporting strategic investment, risk control, and high-level corporate finance decisions.</p>
                 <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
         </div>
@@ -232,9 +232,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <section id="learning-section" class="learning-outcomes">
     <div class="outcomes-header">
-        <h2>LEARNING OUTCOMES</h2>
+        <h2>LEARNING OUTCOMES OF</h2>
         <div class="line-title">
-            <span>Edgewood University, U.S</span>
+            <span>Edgewood University Online</span>
         </div>
     </div>
 
@@ -244,8 +244,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
-                <h3>Nationally - Recognized Accreditation Authority</h3>
-                <p>This program is accredited by the HLC, an independent corporation founded in 1895 as one.</p>
+                <h3>Optional On-Campus Immersion:</h3>
+                <p>Experience U.S. campus learning through optional immersion, workshops, faculty meets, and academic resources onsite support.</p>
             </div>
         </div>
 
@@ -254,8 +254,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
-                <h3>Build Credible Expertise Through Research</h3>
-                <p>This program is accredited by the HLC, an independent corporation founded in 1895 as one of seven.</p>
+                <h3>Online Networking Gala:</h3>
+                <p>Join online networking galas to meet peers, alumni, mentors, and industry leaders worldwide for growth.</p>
             </div>
         </div>
 
@@ -264,8 +264,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
-                <h3>Nationally - Recognized Accreditation Authority</h3>
-                <p>This program is accredited by the HLC, an independent corporation founded in 1895 as one.</p>
+                <h3>Stakeholder Influence:</h3>
+                <p>Build stakeholder influence by negotiating confidently, managing expectations, presenting data, and leading change initiatives effectively.</p>
             </div>
         </div>
 
@@ -274,8 +274,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
-                <h3>Campus Immersion</h3>
-                <p>Experience a week-long campus immersion at Edgewood University</p>
+                <h3>Conduct Applied Doctoral Research:</h3>
+                <p>Conduct applied doctoral research using evidence-based methods, solving business problems with measurable outcomes for organisations.</p>
             </div>
         </div>
 
@@ -284,8 +284,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
-                <h3>Online Networking Gala</h3>
-                <p>Attend a fireside chat and an insightful panel discussion while enriching your professional network</p>
+                <h3>Expert Faculty:</h3>
+                <p>Learn from expert faculty who guide projects, share industry insights, and support academic progress personally.</p>
             </div>
         </div>
 
@@ -294,8 +294,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
-                <h3>Campus Immersion</h3>
-                <p>Experience a week-long campus immersion at Edgewood University</p>
+                <h3>Nationally Recognized:</h3>
+                <p>Earn a nationally recognized U.S. qualification that enhances credibility, promotion prospects, and global mobility faster.</p>
             </div>
         </div>
     </div>
@@ -319,11 +319,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         <div class="certificate-content">
-            <h2>Sample Certificate</h2>
-            <p class="sub-heading">Online DBA From Edgewood University</p>
+            <h2>Sample Certification</h2>
+            <p class="sub-heading">Edgewood University Online</p>
             <p class="description">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                Edgewood University Online offers two certifications after completion of their degree: PwC and the certificate of Edgewood University. These two certificates help students prepare for top-board level roles. In the partnership of PwC India, it teaches strategic thinking, handling stakeholders, governance, and compliance through live lecture which teaching studnet a real-world expertise guidance, which buld confinace to succeed in a business career with Edgewood University Online DBA+MBA and MBA.
             </p>
             <a href="#" class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
         </div>
@@ -342,50 +341,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="faq-item active">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                What Is The Admission Process Of DBA Online?
+                What is the duration of the Edgewood University Online DBA?
             </button>
             <div class="faq-answer">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                <p>The Edgewood University Online DBA can be completed in as little as 24 months, depending on your pace.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                What Is The Admission Process?
+                Is the Edgewood University Online DBA accredited?
             </button>
             <div class="faq-answer">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                <p>The Edgewood University Online DBA is HLC-accredited, which supports its academic credibility in the U.S.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                What Is The Admission Process Of DBA?
+                How long does the Edgewood University Online MBA+DBA take to complete?
             </button>
             <div class="faq-answer">
-                <p>Details regarding the DBA specific admission process go here.</p>
+                <p>The Edgewood University Online MBA+DBA can be completed in around 2.5 years, combining both degrees in one structured path.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                What Is The Fees structure for DBA?
+                Does the MBA part of Edgewood University's Online MBA+DBA have business accreditation?
             </button>
             <div class="faq-answer">
-                <p>Information regarding the fee structure and payment plans.</p>
+                <p>Yes. The MBA included in the Edgewood University Online MBA+DBA is ACBSP-accredited, which reflects quality standards in business education.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                Exam will be Online or Offline?
+                Which is better: Edgewood University Online MBA or MBA+DBA?
             </button>
             <div class="faq-answer">
-                <p>The exams are conducted online through our secure proctoring portal.</p>
+                <p>Choose Edgewood University Online MBA for leadership and career growth. Choose MBA+DBA if you want advanced expertise, applied research skills, and the “Dr.” title.</p>
             </div>
         </div>
     </div>
