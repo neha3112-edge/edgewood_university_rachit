@@ -47,7 +47,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
             </div>
 
-            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;"><a href="../assets/img/edgewood_brochure.pdf">Download Broucher <i class="fa fa-download"></i></a> </button>
+            <button class="banner_custom_btn btn2 downloadBrochureBtn" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;">Download Broucher <i class="fa fa-download"></i> </button>
            </div>
 		
            <div class="banner-form">

@@ -49,11 +49,13 @@
             <div class="col-md-12">
             <!--<p>Home | About | Courses | FAQ</p>-->
             <center><hr/></center>
-            <p>&copy; <?php echo date("Y"); ?> SODE Counseling Services LLP - All Rights Reserved</p>
+            <p>&copy; <?php echo date("Y"); ?>  This information is provided by SODE Counselling Services LLP. All university names, logos, and trademarks mentioned are used for informational purposes only. We are not a university or an admission authority. <br><span class="disclaimer_popup" onclick="disclaimerModal()" style="color:#8DB3F0; font-size:14px; cursor:pointer; font-weight:bold; text-decoration:underline;">Disclaimer</span></p>
             </div>
         </div>
     </div>
 </div>
+
+<?php include 'popup.php'; ?>
 
 <script>
 //     start on scroll popup
