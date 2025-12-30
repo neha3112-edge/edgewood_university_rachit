@@ -16,19 +16,14 @@
         <!-- <label>Email ID <span class="required">*</span></label> -->
         <input type="email" name="email" id="email" class="form-control" placeholder="Enter Your Email" required>
 
-        
-        <!-- <label style="display:none;">Course</label> -->
-        <input type="hidden" name="course" id="course" class="form-control" value="MBA" required>
-
         <!-- <label>Course <span class="required">*</span></label> -->
-
-        <select name="course" class="form-control" id="specialization" required>
-            <option value="" selected disabled>Select Your Course</option>
+        <select name="course" class="form-control" id="courseSelect" required>
+                            <option value="" selected disabled>Select Your Course</option>
                             <option value="DBA">DBA</option>
                             <option value="MBA">MBA</option>
-		
+                        </select>
 
-        </select>
+
         <!-- <label>State <span class="required">*</span></label> -->
         <select name="state" class="form-control" id="state" required>
             <option value="" hidden>Select Your State</option>

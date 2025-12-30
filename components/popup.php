@@ -95,9 +95,6 @@
                             <option value="" selected disabled>Select Your Course</option>
                             <option value="DBA">DBA</option>
                             <option value="MBA">MBA</option>
-                            
-
-                   
                         </select>
                     </div>
 

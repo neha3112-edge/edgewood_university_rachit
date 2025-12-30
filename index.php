@@ -126,7 +126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Eligibility:</strong> master degree with 50%</p>
                 </div>
                 <div class="card-actions">
-                    <a href="../assets/img/new_pdf.pdf" class="btn outline">Get Broucher <span class="icon">↓</span></a>
+                    <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
                     <a href="#" class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
@@ -142,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Degree:</strong> Graduate dgree with experience</p>
                 </div>
                 <div class="card-actions">
-                    <a href="../assets/img/edgewood_brochure.pdf" class="btn outline">Get Broucher <span class="icon">↓</span></a>
+                    <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
                     <a href="#" class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
