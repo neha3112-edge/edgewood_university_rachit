@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.png"/>
-    <title>EdgeWood University</title>
-    <meta decription="Explore the best Online DBA Programs in 2025. Check fees, eligibility, and admission details for the Doctor of Business Administration course.">
+    <title>Edgewood University Online DBA & MBA | U.S. Accredited Dual Degree</title>
+    <meta decription="Edgewood University Online offers U.S. accredited MBA & DBA programs. No GMAT required, flexible monthly fees, dual degree option, and global recognition.">
     <meta keyword="Online DBA Programs">
 	<link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/common.css">
