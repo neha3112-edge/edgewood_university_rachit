@@ -54,34 +54,41 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     curl_close($ch);
 
     // ---------------------------------------------------------
-    // Second API Integration - Google Sheets
-    // ---------------------------------------------------------
-    $sheet_url = 'https://script.google.com/macros/s/AKfycbx0zfHliMNfpTRS2YpVCTDPYpm2wAti15J0LLqD-xNVN3OLrDLM2PeruCYXCoZkQoNvgQ/exec';
-    $sheet_data = [
-        'full_name'    => $full_name,
-        'email'        => $email,
-        'phone'        => $phone,
-        'course'       => $course,
-        'state'        => $state,
-        'source'       => $source,
-        'sub_source'   => $sub_source,
-        'utm_source'   => $utm_source,
-        'utm_campaign' => $utm_campaign,
-        'utm_medium'   => $utm_medium,
-        'utm_term'     => $utm_term,
-        'page_url'     => $page_url,
-        'website'      => 'DBA'
-    ];
+// Second API Integration - Google Sheets (FIXED)
+// ---------------------------------------------------------
+$sheet_url = 'https://script.google.com/a/macros/edgetechnosoft.com/s/AKfycbx6wxXTlwE0qdNNu1eX08nnh0hx6LWCGzg3ZjeewwRWW6On1k2UyIr-WXm2DEm-_HGR/exec';
 
-    $ch = curl_init();
-    curl_setopt_array($ch, [
-        CURLOPT_URL            => $sheet_url,
-        CURLOPT_POST           => true,
-        CURLOPT_POSTFIELDS     => http_build_query($sheet_data),
-        CURLOPT_RETURNTRANSFER => true,
-    ]);
-    curl_exec($ch);
-    curl_close($ch);
+$sheet_data = [
+    'full_name'    => $full_name,
+    'email'        => $email,
+    'phone'        => $phone,
+    'course'       => $course,
+    'state'        => $state,
+    'source'       => $source,
+    'sub_source'   => $sub_source,
+    'utm_source'   => $utm_source,
+    'utm_campaign' => $utm_campaign,
+    'utm_medium'   => $utm_medium,
+    'utm_term'     => $utm_term,
+    'page_url'     => $page_url,
+    'website'      => 'DBA'
+];
+
+$ch = curl_init();
+curl_setopt_array($ch, [
+    CURLOPT_URL            => $sheet_url,
+    CURLOPT_POST           => true,
+    CURLOPT_POSTFIELDS     => json_encode($sheet_data),
+    CURLOPT_HTTPHEADER     => [
+        "Content-Type: application/json"
+    ],
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_TIMEOUT        => 5
+]);
+
+$response = curl_exec($ch);
+curl_close($ch);
+
 
     // ---------------------------------------------------------
     // Redirect to thank you page
