@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <input type="checkbox" id="nav-check">
             <div class="nav-header">
                 <div class="nav-title">
-                    <a href="#" id="logo-link">  
+                    <a href="https://edgewood.distanceeducationschool.in/" id="logo-link">  
                         <img src="assets/img/edewood-logo-header.webp" class="logo" alt="IIM-Logo">
                     </a>
                 </div>
