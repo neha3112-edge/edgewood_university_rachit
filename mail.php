@@ -81,11 +81,11 @@ $sheet_data = [
     'course'       => $course,
     'state'        => $state,
     'source'       => $source,
-    'sub_source'   => $sub_source,
-    'utm_source'   => $utm_source,
-    'utm_campaign' => $utm_campaign,
-    'utm_medium'   => $utm_medium,
-    'utm_term'     => $utm_term,
+    // 'sub_source'   => $sub_source,
+    // 'utm_source'   => $utm_source,
+    // 'utm_campaign' => $utm_campaign,
+    // 'utm_medium'   => $utm_medium,
+    // 'utm_term'     => $utm_term,
     'page_url'     => $page_url,
     'website'      => 'Edgewood_IN' // 👈 TAB NAME IN GOOGLE SHEET
 ];
