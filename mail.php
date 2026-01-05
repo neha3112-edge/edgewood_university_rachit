@@ -72,7 +72,7 @@ curl_close($ch);
 /* ===============================
    4. SEND TO GOOGLE SHEET (JSON – FIXED)
 ================================ */
-$sheet_url = 'https://script.google.com/macros/s/AKfycbw_fs0VuBfikRu4EZkjS3vKBHlkQA3Vvcn_JSdacXXlyXExWahWUHUZF_Y2otR2PHSZ/exec';
+$sheet_url = 'https://script.google.com/a/macros/edgetechnosoft.com/s/AKfycbx6wxXTlwE0qdNNu1eX08nnh0hx6LWCGzg3ZjeewwRWW6On1k2UyIr-WXm2DEm-_HGR/exec';
 
 $sheet_data = [
     'full_name'    => $full_name,
