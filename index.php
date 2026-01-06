@@ -120,7 +120,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="course-container">
         <div class="course-card">
-            <div class="card-image" style="background-image: url('../assets/img/online-dba-edgewood.webp');"></div>
+            <div class="card-image" style="background-image: url('assets/img/online-dba-edgewood.webp');"></div>
             <div class="card-content">
                 <h3>Edgewood University Online MBA:</h3>
                 <p class="description">Edgewood University Online MBA helps students build leadership skills, strategy, and business decision skills with the top approvals of HLC-accredited, ACBSP-approved learning, which offers flexible study and a career-focused curriculum.</p>
@@ -136,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         <div class="course-card">
-            <div class="card-image" style="background-image: url('../assets/img/dbamba-edgewood.webp');"></div>
+            <div class="card-image" style="background-image: url('assets/img/dbamba-edgewood.webp');"></div>
             <div class="card-content">
                 <h3>Edgewood University Online DBA + MBA:</h3>
                 <p class="description">The Dual degree is in demand nowadays. Many students plan to study an online DBA + MBA as their career pathway. The student can complete the degree in 2.5 years, which combines executive skills an MBA student needs with applied research and the respected “Dr” title.</p>
@@ -162,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         <div class="image-container">
-            <img src="../assets/img/edegewood-about-image.webp" alt="Campus">
+            <img src="assets/img/edegewood-about-image.webp" alt="Campus">
             <a href="#" class="cta-button enquireNowBtn">Get FREE Career Counseling</a>
         </div>
     </div>
@@ -179,7 +179,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="accreditation-container">
         <div class="accreditation-card">
             <div class="logo-box">
-                <img src="../assets/img/hlc-approval-edgewood.webp" alt="HLC Logo">
+                <img src="assets/img/hlc-approval-edgewood.webp" alt="HLC Logo">
             </div>
             <h3>Higher Learning Commission (HLC)</h3>
             <p>Edgewood University Online program is approved by the HLC, which is a trusted U.S. regional approval authority. This approval support MBA+DBA program's credibility.</p>
@@ -187,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="accreditation-card">
             <div class="logo-box">
-                <img src="../assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
+                <img src="assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
             </div>
             <h3>World Education Services (WES)</h3>
             <p>The Edgewood University Online DBA+MBA is approved by the WES, which help learniver validate their US qualification for education and career development across countries.</p>
@@ -195,41 +195,77 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="accreditation-card">
             <div class="logo-box">
-                <img src="../assets/img/acbsp-approval-edgewood.webp" alt="ACBSP Logo">
+                <img src="assets/img/acbsp-approval-edgewood.webp" alt="ACBSP Logo">
             </div>
             <h3>Accreditation Council for Business Schools & Programs (ACBSP)</h3>
-            <p>The ACBSP-approval make sure that the quality of the education is a strong academic standard and has a global value. The Edgewood University Online MBA has gotten this approval, which make sure that the course of have a proper approvals.</p>
+            <p>ACBSP approval ensures that the quality of the education has a strong academic value. The Edgewood University Online MBA has this approval, which shows their credibility.</p>
         </div>
     </div>
 </section>
-
 
 
 <section class="specialisation-section">
     <div class="header">
-        <h2>Specializations of Edgewood University Online DBA+MBA</h2>
+        <h2>Specializations of Edgewood University Online DBA / DBA+MBA</h2>
     </div>
 
-    <div class="spec-container">
-        <div class="spec-card">
-            <div class="card-image" style="background-image: url('../assets/img/leadership-edgewood.webp');"></div>
+    <!-- Tabs -->
+    <div class="tabs">
+        <button class="tab-btn active" data-tab="dba">DBA</button>
+        <button class="tab-btn" data-tab="dba-mba">DBA + MBA</button>
+    </div>
+
+    <!-- DBA TAB -->
+    <div class="tab-content active" id="dba">
+        <div class="spec-container">
+
+            <div class="spec-card">
+            <div class="card-image" style="background-image: url('assets/img/leadership-edgewood.webp');"></div>
             <div class="card-content">
-                <h3>DBA+MBA Leadership:</h3>
+                <h3>DBA Leadership</h3>
+                <p class="description">Edgewood University Online DBA leadership builds leadership skills that enable students to learn management and strategic decision-making skills, using applied research to solve real organisational challenges in senior roles, and to gain skilled knowledge.</p>
+                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
+            </div>
+            </div>
+
+            <div class="spec-card">
+            <div class="card-image" style="background-image: url('assets/img/finanance-edgewood.webp');"></div>
+            <div class="card-content">
+                <h3>DBA Finance</h3>
+                <p class="description">Finance Specializations in Edgewood University's Online DBA develop advanced expertise in financial strategy, risk management, and corporate decision-making. This curriculum help student use research-led frameworks to manage complex financial problems.</p>
+                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
+            </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- DBA + MBA TAB -->
+    <div class="tab-content" id="dba-mba">
+        <div class="spec-container">
+
+            <div class="spec-card">
+            <div class="card-image" style="background-image: url('assets/img/leadership-edgewood-2.webp');"></div>
+            <div class="card-content">
+                <h3>DBA+MBA Leadership</h3>
                 <p class="description">Edgewood University Online DBA Learning in DBA+MBA Leadership combines MBA leadership skills with doctoral-level applied research, preparing professionals for senior management, consulting, and enterprise growth roles.</p>
                 <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
-        </div>
+            </div>
 
-        <div class="spec-card">
-            <div class="card-image" style="background-image: url('../assets/img/finanance-edgewood.webp');"></div>
+            <div class="spec-card">
+            <div class="card-image" style="background-image: url('assets/img/Finance.webp');"></div>
             <div class="card-content">
-                <h3>DBA+MBA Finance:</h3>
+                <h3>DBA+MBA Finance</h3>
                 <p class="description">Edgewood University Online DBA Learning in DBA+MBA Finance blends MBA finance fundamentals with advanced doctoral research, supporting strategic investment, risk control, and high-level corporate finance decisions.</p>
                 <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
+            </div>
+
         </div>
     </div>
 </section>
+
 
 
 
@@ -244,7 +280,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="outcomes-grid">
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Optional On-Campus Immersion:</h3>
@@ -254,7 +290,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Online Networking Gala:</h3>
@@ -264,7 +300,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Stakeholder Influence:</h3>
@@ -274,7 +310,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Conduct Applied Doctoral Research:</h3>
@@ -284,7 +320,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Expert Faculty:</h3>
@@ -294,7 +330,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="outcome-item">
             <div class="icon-circle">
-                <img src="../assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
+                <img src="assets/img/learning-outcome-edgewood-icon.webp" alt="Icon">
             </div>
             <div class="outcome-text">
                 <h3>Nationally Recognized:</h3>
@@ -311,8 +347,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         <div class="certificate-display">
             <div class="certificate-track">
-                <img src="../assets/img/sample-certficate-edgewood.webp" class="cert-slide active" alt="Certificate 1">
-                <img src="../assets/img/sample-certficate-edgewood.webp" class="cert-slide" alt="Certificate 2">
+                <img src="assets/img/sample-certficate-edgewood.webp" class="cert-slide active" alt="Certificate 1">
+                <img src="assets/img/sample-certficate-edgewood.webp" class="cert-slide" alt="Certificate 2">
             </div>
             
             <div class="slider-dots">
@@ -610,6 +646,18 @@ document.querySelectorAll('.faq-question').forEach(button => {
         if (!isOpen) {
             currentItem.classList.add('active');
         }
+    });
+});
+</script>
+
+<script>
+document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+        btn.classList.add('active');
+        document.getElementById(btn.dataset.tab).classList.add('active');
     });
 });
 </script>
