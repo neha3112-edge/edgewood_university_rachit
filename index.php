@@ -129,8 +129,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Eligibility:</strong> Bachelor's + Master's Degree with relevant experience</p>
                 </div>
                 <div class="card-actions">
-                    <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
-                    <a href="#" class="btn solid enquireNowBtn">Apply now</a>
+                    <a class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
+                    <a class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
         </div>
@@ -145,8 +145,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Eligibility:</strong> Bachelor's Degree</p>
                 </div>
                 <div class="card-actions">
-                    <a href="#" class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
-                    <a href="#" class="btn solid enquireNowBtn">Apply now</a>
+                    <a class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
+                    <a class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
         </div>
@@ -163,7 +163,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="image-container">
             <img src="assets/img/edegewood-about-image.webp" alt="Campus">
-            <a href="#" class="cta-button enquireNowBtn">Get FREE Career Counseling</a>
+            <a class="cta-button enquireNowBtn">Get FREE Career Counseling</a>
         </div>
     </div>
 </section>
@@ -181,7 +181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="logo-box">
                 <img src="assets/img/hlc-approval-edgewood.webp" alt="HLC Logo">
             </div>
-            <h3>Higher Learning Commission (HLC)</h3>
+            <h3>HLC</h3>
             <p>Edgewood University Online program is approved by the HLC, which is a trusted U.S. regional approval authority. This approval support MBA+DBA program's credibility.</p>
         </div>
 
@@ -189,7 +189,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="logo-box">
                 <img src="assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
             </div>
-            <h3>World Education Services (WES)</h3>
+            <h3>WES</h3>
             <p>The Edgewood University Online DBA+MBA is approved by the WES, which help learniver validate their US qualification for education and career development across countries.</p>
         </div>
 
@@ -197,7 +197,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="logo-box">
                 <img src="assets/img/acbsp-approval-edgewood.webp" alt="ACBSP Logo">
             </div>
-            <h3>Accreditation Council for Business Schools & Programs (ACBSP)</h3>
+            <h3>ACBSP</h3>
             <p>ACBSP approval ensures that the quality of the education has a strong academic value. The Edgewood University Online MBA has this approval, which shows their credibility.</p>
         </div>
     </div>
@@ -224,7 +224,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="card-content">
                 <h3>DBA Leadership</h3>
                 <p class="description">Edgewood University Online DBA leadership builds leadership skills that enable students to learn management and strategic decision-making skills, using applied research to solve real organisational challenges in senior roles, and to gain skilled knowledge.</p>
-                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
+                <a class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
             </div>
 
@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="card-content">
                 <h3>DBA Finance</h3>
                 <p class="description">Finance Specializations in Edgewood University's Online DBA develop advanced expertise in financial strategy, risk management, and corporate decision-making. This curriculum help student use research-led frameworks to manage complex financial problems.</p>
-                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
+                <a class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
             </div>
 
@@ -249,7 +249,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="card-content">
                 <h3>DBA+MBA Leadership</h3>
                 <p class="description">Edgewood University Online DBA Learning in DBA+MBA Leadership combines MBA leadership skills with doctoral-level applied research, preparing professionals for senior management, consulting, and enterprise growth roles.</p>
-                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
+                <a class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
             </div>
 
@@ -258,7 +258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="card-content">
                 <h3>DBA+MBA Finance</h3>
                 <p class="description">Edgewood University Online DBA Learning in DBA+MBA Finance blends MBA finance fundamentals with advanced doctoral research, supporting strategic investment, risk control, and high-level corporate finance decisions.</p>
-                <a href="#" class="apply-btn-border enquireNowBtn">Apply Now</a>
+                <a class="apply-btn-border enquireNowBtn">Apply Now</a>
             </div>
             </div>
 
@@ -294,7 +294,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="outcome-text">
                 <h3>Online Networking Gala:</h3>
-                <p>Join online networking galas to meet peers, alumni, mentors, and industry leaders worldwide for growth.</p>
+                <p>Join online networking galas to meet peers, alumni, mentors, and industry leaders worldwide and expand your professional network.</p>
             </div>
         </div>
 
@@ -324,7 +324,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="outcome-text">
                 <h3>Expert Faculty:</h3>
-                <p>Learn from expert faculty who guide projects, share industry insights, and support academic progress personally.</p>
+                <p>Learn from expert faculty who guide projects, share industry insights, and support academic progress personally to help learner gain the skills they need.</p>
             </div>
         </div>
 
@@ -363,7 +363,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="description">
                 Edgewood University Online offers two certifications after completion of their degree: PwC and the certificate of Edgewood University. These two certificates help students prepare for top-board level roles. In the partnership of PwC India, it teaches strategic thinking, handling stakeholders, governance, and compliance through live lecture which teaching studnet a real-world expertise guidance, which buld confinace to succeed in a business career with Edgewood University Online DBA+MBA and MBA.
             </p>
-            <a href="#" class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
+            <a class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
         </div>
         
     </div>
