@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Eligibility:</strong> Bachelor's + Master's Degree with relevant experience</p>
                 </div>
                 <div class="card-actions">
-                    <a class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
+                    <a class="btn outline downloadBrochureBtn">Get Brochure <span class="icon">↓</span></a>
                     <a class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
@@ -145,7 +145,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p><strong>Eligibility:</strong> Bachelor's Degree</p>
                 </div>
                 <div class="card-actions">
-                    <a class="btn outline downloadBrochureBtn">Get Broucher <span class="icon">↓</span></a>
+                    <a class="btn outline downloadBrochureBtn">Get Brochure <span class="icon">↓</span></a>
                     <a class="btn solid enquireNowBtn">Apply now</a>
                 </div>
             </div>
