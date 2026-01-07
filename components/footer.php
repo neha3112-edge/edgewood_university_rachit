@@ -12,15 +12,10 @@
             <div class="footer-column">
                 <h2>Online DBA Specialization</h2>
 				<ul>
-                    <li>DBA - Emerging Technologies</li>
-                    <li>DBA - Finance</li>
-                    <li>DBA - Marketing</li>
-                    <li>DBA - Emerging Technologies</li>
-                    <li>DBA - Finance</li>
-                    <li>DBA - Marketing</li>
-                    <li>DBA - Emerging Technologies</li>
-                    <li>DBA - Finance</li>
-                    <li>DBA - Marketing</li>
+                    <li>DBA in Finance</li>
+                    <li>DBA in Leadership</li>
+                    <li>DBA+MBA in Finance</li>
+                    <li>DBA+MBA in Leadership</li>
 
                 </ul>
 				
