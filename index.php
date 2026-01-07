@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <i class="fa fa-graduation-cap"></i>
                 <div class="inner_arc1_grid">
                 <h3>5 lakh+</h3>
-                <p>Student Enrolled</p>
+                <p>Enrollments</p>
                 </div>
             </div>
 
