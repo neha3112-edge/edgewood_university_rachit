@@ -1010,7 +1010,7 @@ p {
 
 .accreditation-header h2 {
     color: var(--primary-color);
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 800;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -1553,4 +1553,11 @@ p {
 
 .tab-content.active {
     display: block;
+}
+
+
+@media only screen and (max-width:768px){
+    .nav-header {
+	padding-bottom: 0px !important;
+}
 }
