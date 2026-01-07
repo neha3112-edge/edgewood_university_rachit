@@ -348,12 +348,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="certificate-display">
             <div class="certificate-track">
                 <img src="assets/img/sample-certficate-edgewood.webp" class="cert-slide active" alt="Certificate 1">
-                <img src="assets/img/sample-certficate-edgewood.webp" class="cert-slide" alt="Certificate 2">
-            </div>
-            
-            <div class="slider-dots">
-                <span class="dot active" onclick="currentSlide(0)"></span>
-                <span class="dot" onclick="currentSlide(1)"></span>
             </div>
         </div>
 
