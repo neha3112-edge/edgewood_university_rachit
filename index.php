@@ -187,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="accreditation-card">
             <div class="logo-box">
-                <img src="assets/img/chea-approval-edgewood.webp" alt="CHEA Logo">
+                <img src="assets/img/WES.webp" alt="CHEA Logo">
             </div>
             <h3>WES</h3>
             <p>The Edgewood University Online DBA+MBA is approved by the WES, which help learniver validate their US qualification for education and career development across countries.</p>
