@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.png"/>
     <title>Edgewood University Online DBA & MBA | U.S. Accredited Dual Degree</title>
-    <meta decription="Edgewood University Online offers U.S. accredited MBA & DBA programs. No GMAT required, flexible monthly fees, dual degree option, and global recognition.">
+    <meta name="description" content="Edgewood University Online offers U.S. accredited MBA & DBA programs. No GMAT required, flexible monthly fees, dual degree option, and global recognition.">
     <meta keyword="Online DBA Programs">
 	<link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/common.css">
